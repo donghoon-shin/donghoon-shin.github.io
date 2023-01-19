@@ -14,11 +14,16 @@ Before this, I served at the Republic of Korea Army as an intelligent robot rese
 
 News
 ======
-(2023-01-13) Started rotation at [Frank lab at UCSF](https://changlab.ucsf.edu/)!\
+(2023-01-13) Started rotation at [Frank lab at UCSF](https://franklab.ucsf.edu/)!\
 (2022-09-19) Started rotation at [Chang lab at UCSF](https://changlab.ucsf.edu/)!\
 (2022-08-17) First day of my PhD! \
-(2022-07-17) Discharged from ROK army! Thanks!\ 
+(2022-07-17) Discharged from ROK army! Thanks! 
 
 
 Publication
 ======
+[3] **Donghoon Shin**, Joseph Del Rosario, Kayla Peelman, and Bilal Haider. [Narrowband gamma oscillations propagate and synchronize throughout the mouse thalamocortical visual system](https://www.biorxiv.org/content/10.1101/2022.05.19.491028v1). Biorxiv . Under review. 
+
+[2] **Donghoon Shin(*)**, Yoonyoung Cho(*), and Beomjoon Kim. [Optimal hierarchical planner for object search in large environments via mobile manipulation](https://drive.google.com/file/d/1Sm2VHC4giK4cPEOs-aHkD5-on-sibzuq/view?usp=sharing). 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022) **(*)Equal contribution** 
+
+[1] Armel Nsiangani, Joseph Del Rosario, Alan Yeh, Donghoon Shin, Shea Wells, Tidhar Lev-Ari, Bilal Haider. [Optimizing intact skull intrinsic signal imaging for subsequent targeted electrophysiology across visual cortex](https://www.nature.com/articles/s41598-022-05932-2). Scientific Reports, 2022. Paper 
