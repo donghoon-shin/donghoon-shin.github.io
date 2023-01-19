@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there! My name is <span style="color:#86dc3d">Donghoon</span>"
+title: "Hi there! My name is Donghoon"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,13 +17,12 @@ News
 (2023-01-13) Started rotation at [Frank lab at UCSF](https://franklab.ucsf.edu/)\
 (2022-09-19) Started rotation at [Chang lab at UCSF](https://changlab.ucsf.edu/)\
 (2022-08-17) First day of my PhD! \
-(2022-07-17) Discharged from ROK army! Thanks! 
+(2022-07-17) Discharged from ROK army. Thanks! 
 
 
 Publication
 ======
 [3] **Donghoon Shin**, Joseph Del Rosario, Kayla Peelman, and Bilal Haider. [Narrowband gamma oscillations propagate and synchronize throughout the mouse thalamocortical visual system](https://www.biorxiv.org/content/10.1101/2022.05.19.491028v1). Biorxiv. *Under review*. 
-![shin22-biorxiv](https://drive.google.com/file/d/10qpcuP5StgXWk729xFclC6KQuJg91hkE/view?usp=share_link)
 
 [2] **Donghoon Shin\***, Yoonyoung Cho*, and Beomjoon Kim. [Optimal hierarchical planner for object search in large environments via mobile manipulation](https://drive.google.com/file/d/1Sm2VHC4giK4cPEOs-aHkD5-on-sibzuq/view?usp=sharing). 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022) *\*Equal contribution* 
 
