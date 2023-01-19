@@ -23,6 +23,7 @@ News
 Publication
 ======
 [3] **Donghoon Shin**, Joseph Del Rosario, Kayla Peelman, and Bilal Haider. [Narrowband gamma oscillations propagate and synchronize throughout the mouse thalamocortical visual system](https://www.biorxiv.org/content/10.1101/2022.05.19.491028v1). Biorxiv . Under review. 
+![shin22-biorxiv](https://drive.google.com/file/d/10qpcuP5StgXWk729xFclC6KQuJg91hkE/view?usp=share_link)
 
 [2] **Donghoon Shin\***, Yoonyoung Cho*, and Beomjoon Kim. [Optimal hierarchical planner for object search in large environments via mobile manipulation](https://drive.google.com/file/d/1Sm2VHC4giK4cPEOs-aHkD5-on-sibzuq/view?usp=sharing). 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022) **\*Equal contribution** 
 
