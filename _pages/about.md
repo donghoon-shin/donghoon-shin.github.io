@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I am Donghoon"
+title: "Hi there! My name is Donghoon and you can pronounce it as Dong-Who-n"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,10 +14,10 @@ Before this, I served at the Republic of Korea Army as an intelligent robot rese
 
 News
 ======
-(2023-01-13) Started rotation at [Frank lab at UCSF](https://changlab.ucsf.edu/)!
-(2022-09-19) Started rotation at [Chang lab at UCSF](https://changlab.ucsf.edu/)!
-(2022-08-17) First day of my PhD! 
-(2022-07-17) Discharged from ROK army! Thanks! 
+(2023-01-13) Started rotation at [Frank lab at UCSF](https://changlab.ucsf.edu/)!\
+(2022-09-19) Started rotation at [Chang lab at UCSF](https://changlab.ucsf.edu/)!\
+(2022-08-17) First day of my PhD! \
+(2022-07-17) Discharged from ROK army! Thanks!\ 
 
 
 Publication

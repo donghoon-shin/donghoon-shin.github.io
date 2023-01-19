@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Donghoon Shin"
   avatar           : "profile.png"
-  bio              : "PhD student at UCBerkeley & UCSF Bioengineering program"
-  location         : "Location"
+  bio              : "PhD student at UC Berkeley & UCSF Bioengineering program"
+  location         : #"Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  email            : "donghoon.shin@berkeley.edu"
   googlescholar    : "https://scholar.google.com/citations?user=tXNprMsAAAAJ&hl=en&authuser=1"
-  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
