@@ -87,6 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "donghoon.shin@berkeley.edu"
+  twitter          : "@shinapses"
   googlescholar    : "https://scholar.google.com/citations?user=tXNprMsAAAAJ&hl=en&authuser=1"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +110,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@shinapses"
   vine             :
   weibo            :
   xing             :
