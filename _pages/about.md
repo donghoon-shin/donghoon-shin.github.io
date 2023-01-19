@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there! My name is Donghoon"
+title: "Hi there! My name is <span style="color:#86dc3d">Donghoon</span>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
