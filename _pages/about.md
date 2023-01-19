@@ -14,8 +14,8 @@ Before this, I served at the Republic of Korea Army as an intelligent robot rese
 
 News
 ======
-(2023-01-13) Started rotation at [Frank lab at UCSF](https://franklab.ucsf.edu/)!\
-(2022-09-19) Started rotation at [Chang lab at UCSF](https://changlab.ucsf.edu/)!\
+(2023-01-13) Started rotation at [Frank lab at UCSF](https://franklab.ucsf.edu/)\
+(2022-09-19) Started rotation at [Chang lab at UCSF](https://changlab.ucsf.edu/)\
 (2022-08-17) First day of my PhD! \
 (2022-07-17) Discharged from ROK army! Thanks! 
 
