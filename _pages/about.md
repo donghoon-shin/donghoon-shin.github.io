@@ -26,7 +26,7 @@ Publications
 ======
 [3] **Donghoon Shin**, Kayla Peelman, Anthony Lien, Joseph Del Rosario, and Bilal Haider. [Narrowband gamma oscillations propagate and synchronize throughout the mouse thalamocortical visual system](https://doi.org/10.1016/j.neuron.2023.03.006). *Neuron*, 2023. [(Media)](https://bme.gatech.edu/bme/news/researchers-discover-neural-clock-may-synchronize-visual-behavior)
 
-[2] **Donghoon Shin\***, Yoonyoung Cho*, and Beomjoon Kim. [Optimal hierarchical planner for object search in large environments via mobile manipulation](https://drive.google.com/file/d/1Sm2VHC4giK4cPEOs-aHkD5-on-sibzuq/view?usp=sharing). *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022)* \*Equal contribution,([Media])(https://kookbang.dema.mil.kr/newsWeb/20220715/3/ATCE_CTGR_0050010000/view.do)
+[2] **Donghoon Shin\***, Yoonyoung Cho*, and Beomjoon Kim. [Optimal hierarchical planner for object search in large environments via mobile manipulation](https://drive.google.com/file/d/1Sm2VHC4giK4cPEOs-aHkD5-on-sibzuq/view?usp=sharing). *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022)* \*Equal contribution, [(Media)](https://kookbang.dema.mil.kr/newsWeb/20220715/3/ATCE_CTGR_0050010000/view.do)
 
 [1] Armel Nsiangani, Joseph Del Rosario, Alan Yeh, **Donghoon Shin**, Shea Wells, Tidhar Lev-Ari, Bilal Haider. [Optimizing intact skull intrinsic signal imaging for subsequent targeted electrophysiology across visual cortex](https://www.nature.com/articles/s41598-022-05932-2). *Scientific Reports*, 2022. 
 
