@@ -32,9 +32,10 @@ Publications
 
 Education
 ======
-* Ph.D in Bioengineering, University of California, Berkeley & San Francisco, 2022- 
+* Ph.D in Bioengineering, University of California, Berkeley & San Francisco,   2022- 
 * M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, -2021
-* B.S. in Electrical and Computer Engineering, Georgia Institute of Technology & KAIST (Korea Advanced Institute of Science and Technology), -2019
+* B.S. in Electrical and Computer Engineering, Georgia Institute of Technology 
+        & KAIST (Korea Advanced Institute of Science and Technology), -2019
 
 
 Work experience
